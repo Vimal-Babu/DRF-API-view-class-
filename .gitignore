@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / built files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secret key
+secret.key
+
+# Development-related files
+*.sqlite3
+*.pyc
+*.bak
+*.swp
+*.swo
+*.log
+*.vscode/
+*.idea/
+__pycache__/
+.env
+
+# Static files
+/static/
+node_modules/
+
+# Media files
+/media/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+
+# Compiled Python bytecode
+*.pyc
+
+# If using poetry for dependencies
+poetry.lock
